@@ -16,7 +16,7 @@ There was a total of 4514 5-star reviews; of the total 5-star reviews, 11 were V
 
 **3.	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
-Overall, approximately 0.24% of the total 5-star reviews were from Vine members, and 99.76% of the reviews were from non-Vine members 
+Overall, approximately 0.24% of the total 5-star reviews were from Vine members, and 99.76% of the reviews were from non-Vine members. 
 
 ![code_support:](./Resources/code_support.png)
 
