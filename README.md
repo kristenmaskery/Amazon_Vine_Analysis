@@ -11,9 +11,11 @@ The purpose of this analysis is to analyze the reviews written by members of the
 There was a total of 7962 reviews; of the total reviews, 21 were reviews written by Vine members and 7941 reviews were written by non-Vine members.   
 
 **2.	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
+
 There was a total of 4514 5-star reviews; of the total 5-star reviews, 11 were Vine member reviews and 4503 of the 5-star reviews were non-Vine member reviews. 
 
 **3.	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
+
 Overall, approximately 0.24% of the total 5-star reviews were from Vine members, and 99.76% of the reviews were from non-Vine members 
 
 ![code_support:](./Resources/code_support.png)
