@@ -7,6 +7,7 @@ The purpose of this analysis is to analyze the reviews written by members of the
 
 ## Results 
 **1.	How many Vine reviews and non-Vine reviews were there?**
+
 There was a total of 7962 reviews; of the total reviews, 21 were reviews written by Vine members and 7941 reviews were written by non-Vine members.   
 
 **2.	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
